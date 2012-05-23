@@ -18,9 +18,9 @@
 -include device/samsung/exynos4tab-common/BoardConfigCommon.mk
 
 # Use the non-open-source parts, if they're present
--include vendor/samsung/p6200/BoardConfigVendor.mk
+-include vendor/samsung/t869/BoardConfigVendor.mk
 
-TARGET_OTA_ASSERT_DEVICE := p6200,GT-P6200
+TARGET_OTA_ASSERT_DEVICE := t869,SGH-T869
 
 TARGET_KERNEL_CONFIG := cyanogenmod_p6200_defconfig
 

@@ -45,7 +45,7 @@
          Zone N + 1     array[N] <= LUX < infinity
 
          Must be overridden in platform specific overlays -->
-    <!-- The p6200 light sensors reports 12,120,1200,12000,16000 -->
+    <!-- The t869 light sensors reports 12,120,1200,12000,16000 -->
     <integer-array name="config_autoBrightnessLevels">
         <item>12</item>
         <item>120</item>

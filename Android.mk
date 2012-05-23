@@ -22,7 +22,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),p6200)
+ifeq ($(TARGET_DEVICE),t869)
 
 include $(CLEAR_VARS)
 

@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo full_p6200-eng
-add_lunch_combo cm_p6200-userdebug
+add_lunch_combo full_t869-eng
+add_lunch_combo cm_t869-userdebug
